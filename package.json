@@ -1,0 +1,13 @@
+{
+  "title": "devtools-template",
+  "name": "firefox-devtools-template",
+  "version": "0.0.1",
+  "description": "A base template for a Firefox Devtools Extension",
+  "main": "index.js",
+  "author": "Jeff Griffiths (@canuckistani)",
+  "engines": {
+    "firefox": ">=33.0a1",
+    "fennec": ">=33.0a1"
+  },
+  "license": "MIT"
+}
